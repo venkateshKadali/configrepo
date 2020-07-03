@@ -1,0 +1,10 @@
+db:
+    user: venky
+    password: $Ab#@1
+    port: 9000
+    
+my:
+    greetings: Hello World from config server
+    list:
+        values: One, two, three, four
+        

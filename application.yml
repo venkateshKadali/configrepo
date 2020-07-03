@@ -4,7 +4,7 @@ db:
     port: 9000
     
 my:
-    greetings: Hello World from config server
+    greetings: Hello World from git
     list:
-        values: One, two, three, four
+        values: One, two, three, four, five
         

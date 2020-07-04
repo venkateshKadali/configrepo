@@ -1,0 +1,9 @@
+db:
+    user: venky
+    password: $Ab#@1
+    port: 9000
+    
+my:
+    greetings: Hello World from spring cloud config client
+    list:
+        values: One, two, three

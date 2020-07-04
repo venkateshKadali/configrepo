@@ -4,6 +4,6 @@ db:
     port: 9000
     
 my:
-    greetings: Hello World from spring cloud config client
+    greetings: Happy New Year from sccc1 yaml file
     list:
-        values: One, two, three
+        values: zebra, apple

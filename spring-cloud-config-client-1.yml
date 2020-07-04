@@ -4,6 +4,6 @@ db:
     port: 9000
     
 my:
-    greetings: Updated Happy New Year from sccc1 yaml file latest
+    greetings: lately updated Happy New Year from sccc1 yaml file latest
     list:
-        values: zebra, apple
+        values: zebra, apple, banana, oats
